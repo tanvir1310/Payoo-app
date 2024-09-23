@@ -9,7 +9,7 @@ document.getElementById('button-login').addEventListener('click', function(event
 
   if(phoneNumber === '123' && pinNumber === '12'){
 
-    window.location.href = 'home.html';
+    window.location.href = '/home.html';
   } 
 
   else {
